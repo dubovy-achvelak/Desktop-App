@@ -38,6 +38,8 @@ set(WS_TS_FILES
     ${CMAKE_CURRENT_SOURCE_DIR}/translations/ws_desktop_zh-CN.ts
     ${CMAKE_CURRENT_SOURCE_DIR}/translations/ws_desktop_zh-TW.ts)
 
+qt6_add_translation(WS_QM_FILES ${CMAKE_CURRENT_SOURCE_DIR}/translations/ws_desktop_be.ts)
+
 # Using the -extensions flag to skip processing the .ui files in the test projects.  Otherwise, the
 # strings in said ui files will be added to the .ts output files.
 if (NOT DEFINE_QT_CREATOR_DEV_BUILD_MACRO)

@@ -27,6 +27,9 @@ set(WINDSCRIBE_TS_FILES
     ${CMAKE_CURRENT_SOURCE_DIR}/translations/windscribe_installer_zh-CN.ts
     ${CMAKE_CURRENT_SOURCE_DIR}/translations/windscribe_installer_zh-TW.ts
 )
+
+qt6_add_translation(WINDSCRIBE_QM_FILES ${CMAKE_CURRENT_SOURCE_DIR}/translations/windscribe_installer_be.ts)
+
 qt6_create_translation(WINDSCRIBE_QM_FILES ${CMAKE_CURRENT_SOURCE_DIR} ${CMAKE_CURRENT_SOURCE_DIR}/../windows/installer ${WINDSCRIBE_TS_FILES} OPTIONS -extensions cpp,h -locations none)
 
 qt_add_resources(installer qm_files

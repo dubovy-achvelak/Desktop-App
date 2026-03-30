@@ -131,6 +131,9 @@ set(TS_FILES
     ${CMAKE_CURRENT_SOURCE_DIR}/translations/windscribe_cli_zh-CN.ts
     ${CMAKE_CURRENT_SOURCE_DIR}/translations/windscribe_cli_zh-TW.ts
 )
+
+qt6_add_translation(QM_FILES ${CMAKE_CURRENT_SOURCE_DIR}/translations/windscribe_cli_be.ts)
+
 qt6_create_translation(QM_FILES ${CMAKE_CURRENT_SOURCE_DIR} ${TS_FILES} OPTIONS -extensions cpp,h -locations none)
 
 qt_add_resources(windscribe-cli qm_files
