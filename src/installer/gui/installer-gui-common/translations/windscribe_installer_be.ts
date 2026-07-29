@@ -50,11 +50,12 @@
     </message>
     <message>
         <source>The installer could not launch its file extraction utility. Antivirus software or Windows security features (e.g. Smart App Control) may be blocking the installation.</source>
-        <translation>Усталёўшчык не мог запусціць сваю ўтыліту для распаўсюджвання файлаў. Антывіруснае праграмнае забеспячэнне або сістэмы бяспекі Windows (напрыклад, Smart App Control) могуць блакаваць устаноўку.</translation>
+        <translation>Усталёўнік не змог запусьціць утыліту для распакаваньня файлаў. Усталяваньне могуць блякаваць антывіруснае праґрамнае забесьпячэньне альбо функцыі бясьпекі Windows (напрыклад, Smart App Control).</translation>
+        <translation>Усталёўнік не змог запусьціць утыліту для распакаваньня файлаў. Антывіруснае праґрамнае забесьпячэньне альбо функцыі бясьпекі Windows (напрыклад, Smart App Control) могуць блякаваць усталяваньне.</translation>
     </message>
     <message>
         <source>The application files could not be extracted to the installation folder. A file may be locked by another program, the disk may be full, or the downloaded installer may be damaged. If this issue persists, download the installer again and retry.</source>
-        <translation>Файлы прыкладання не маглі быць распакаваныя ў тэчку ўстаноўкі. Файл можа быць заблакаваны іншай праграмай, дыск можа быць запоўнены, або загружаны ўсталёўшчык можа быць пашкоджаны. Калі праблема застанецца, спампуйце ўсталёўшчык зноў і паспрабуйце зноў.</translation>
+        <translation>Не ўдалося распакаваць файлы ў каталёґ усталяваньня. Магчыма, файл выкарыстоўваецца іншай праґрамай, дыск запоўнены альбо спампаваны ўсталёўнік пашкоджаны. Калі праблема захаваецца, спампуйце ўсталёўнік яшчэ раз і паспрабуйце зноў.</translation>
     </message>
     <message>
         <source>The installation could not be completed successfully. Please contact our Technical Support.</source>
