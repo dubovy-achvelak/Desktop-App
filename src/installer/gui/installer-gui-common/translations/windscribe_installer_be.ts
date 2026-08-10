@@ -34,11 +34,11 @@
     </message>
     <message>
         <source>The Windows Base Filtering Engine service is not running and could not be started. This core Windows service must be running to install Windscribe. Third-party security/firewall software is most often the cause of this issue.</source>
-        <translation>Служба Windows Base Filtering Engine не працуе і не можа быць запушчана. Гэтая асноўная служба Windows павінна працаваць для ўсталёўкі Windscribe. Часьцей за ўсё праблему выклікае староньняе ахоўнае праґрамнае забесьпячэньне альбо брандмаўэр.</translation>
+        <translation>Служба Windows Base Filtering Engine не працуе і не можа быць запушчаная. Гэтая сыстэмная служба Windows павінна працаваць, каб усталяваць Windscribe. Часьцей за ўсё праблему выклікае староньняе ахоўнае праґрамнае забесьпячэньне альбо брандмаўэр.</translation>
     </message>
     <message>
         <source>Windscribe is unable to connect to the Windows Base Filtering Engine service. Connecting to this core Windows service is required to install Windscribe. Third-party security/firewall software is most often the cause of this issue.</source>
-        <translation>Windscribe не можа падлучыцца да службы Windows Base Filtering Engine. Для ўсталёўкі Windscribe неабходна падлучэньне да гэтай асноўнай службы Windows. Часьцей за ўсё праблему выклікае староньняе ахоўнае праґрамнае забесьпячэньне альбо брандмаўэр.</translation>
+        <translation>Windscribe не можа падлучыцца да службы Windows Base Filtering Engine. Для ўсталёўкі Windscribe неабходна падлучэньне да гэтай сыстэмнай службы Windows. Часьцей за ўсё праблему выклікае староньняе ахоўнае праґрамнае забесьпячэньне альбо брандмаўэр.</translation>
     </message>
     <message>
         <source>Windscribe is unable to install its helper service. Please manually uninstall Windscribe and try again. If this issue persists, please contact our Technical Support.</source>

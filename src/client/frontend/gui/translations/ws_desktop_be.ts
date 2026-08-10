@@ -651,11 +651,11 @@ If you lose your account hash, it&apos;s gone forever and support cannot help yo
     </message>
     <message>
         <source>Installation Incomplete</source>
-        <translation>Няпоўная ўстаноўка</translation>
+        <translation>Усталёўка не завершаная</translation>
     </message>
     <message>
         <source>Part of the Windscribe installation is missing.  Please download Windscribe and install it again.</source>
-        <translation>Частка інсталяцыі Windscribe адсутнічае.  Калі ласка, спампуйце Windscribe і ўсталюйце яго зноў.</translation>
+        <translation>Частка ўсталёўкі Windscribe адсутнічае.  Спампуйце Windscribe яшчэ раз і ўсталюйце яго.</translation>
     </message>
     <message>
         <source>Proxy Gateway is unauthenticated</source>
@@ -831,7 +831,7 @@ If the problem persists after a restart, please send a debug log and open a supp
     </message>
     <message>
         <source>The Remote Access Connection Manager (RasMan) service is not running and could not be started. This prevents IKEv2 from being used on this PC. Please try another connection mode or investigate why this core Windows service is unable to start.</source>
-        <translation>Сэрвіс Remote Access Connection Manager (RasMan) не працуе і не можа быць запушчаны. Гэта перашкаджае выкарыстанню IKEv2 на гэтым ПК. Калі ласка, паспрабуйце іншы рэжым злучэння або высветліць, чаму гэты асноўны сэрвіс Windows не можа запусціцца.</translation>
+        <translation>Служба Remote Access Connection Manager (RasMan) не працуе і не можа быць запушчаная. Гэта перашкаджае выкарыстаньню IKEv2 на гэтым кампутары. Паспрабуйце іншы рэжым злучэньня альбо высьветліце, чаму гэтая сыстэмная служба Windows не запускаецца.</translation>
     </message>
     <message>
         <source>An unexpected error occurred establishing the VPN connection (Error %1).  If this error persists, try using a different protocol or contact support.</source>
